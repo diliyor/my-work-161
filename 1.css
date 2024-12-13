@@ -1,0 +1,13 @@
+.q1 {
+    border: 5px solid blue;
+    width: 400px;
+    height: 250px;
+}
+.q2 {
+    border: 5px solid red;
+    border-radius: 15px;
+    width: 360px;
+    height: 210px;
+    margin: auto;
+    margin-top: 15px;
+}
